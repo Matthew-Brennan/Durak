@@ -1,0 +1,14 @@
+c:\users\tonya\documents\visual studio 2015\Projects\Durak\Durak\bin\Debug\Durak.exe.config
+c:\users\tonya\documents\visual studio 2015\Projects\Durak\Durak\bin\Debug\Durak.exe
+c:\users\tonya\documents\visual studio 2015\Projects\Durak\Durak\bin\Debug\Durak.pdb
+c:\users\tonya\documents\visual studio 2015\Projects\Durak\Durak\obj\Debug\Durak.csprojResolveAssemblyReference.cache
+c:\users\tonya\documents\visual studio 2015\Projects\Durak\Durak\obj\Debug\Durak.frmMainMenu.resources
+c:\users\tonya\documents\visual studio 2015\Projects\Durak\Durak\obj\Debug\Durak.Properties.Resources.resources
+c:\users\tonya\documents\visual studio 2015\Projects\Durak\Durak\obj\Debug\Durak.csproj.GenerateResource.Cache
+c:\users\tonya\documents\visual studio 2015\Projects\Durak\Durak\obj\Debug\Durak.exe
+c:\users\tonya\documents\visual studio 2015\Projects\Durak\Durak\obj\Debug\Durak.pdb
+C:\Users\Tonya\documents\visual studio 2015\Projects\Durak\Durak\obj\Debug\Durak.frmAbout.resources
+C:\Users\Tonya\documents\visual studio 2015\Projects\Durak\Durak\obj\Debug\Durak.frmGame.resources
+C:\Users\Tonya\documents\visual studio 2015\Projects\Durak\Durak\bin\Debug\DurakLibrary.dll
+C:\Users\Tonya\documents\visual studio 2015\Projects\Durak\Durak\bin\Debug\DurakLibrary.pdb
+C:\Users\Tonya\Documents\Visual Studio 2015\Projects\Durak\Durak\obj\Debug\Durak.frmEnd.resources

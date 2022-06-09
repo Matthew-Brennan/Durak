@@ -1,0 +1,7 @@
+C:\Users\Tonya\documents\visual studio 2015\Projects\Durak\DurakLibrary\bin\Debug\DurakLibrary.dll
+C:\Users\Tonya\documents\visual studio 2015\Projects\Durak\DurakLibrary\bin\Debug\DurakLibrary.pdb
+C:\Users\Tonya\documents\visual studio 2015\Projects\Durak\DurakLibrary\obj\Debug\DurakLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Tonya\documents\visual studio 2015\Projects\Durak\DurakLibrary\obj\Debug\DurakLibrary.dll
+C:\Users\Tonya\documents\visual studio 2015\Projects\Durak\DurakLibrary\obj\Debug\DurakLibrary.pdb
+C:\Users\Tonya\Documents\Visual Studio 2015\Projects\Durak\DurakLibrary\obj\Debug\DurakLibrary.Properties.Resources.resources
+C:\Users\Tonya\Documents\Visual Studio 2015\Projects\Durak\DurakLibrary\obj\Debug\DurakLibrary.csproj.GenerateResource.Cache
